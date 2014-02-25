@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:orientation="horizontal">
+    <com.loopj.android.image.SmartImageView
+	     android:id="@+id/imageViewPage"
+	     android:layout_gravity="center"
+	     android:contentDescription="@string/action_settings"
+	     android:src="@drawable/ic_launcher"
+	     android:layout_width="64dp"
+	     android:layout_height="64dp"/>
+    <TextView android:id="@+id/txtPage"
+        android:layout_marginLeft="5dp"
+        android:textSize="32sp"
+        android:textColor="#2E2EFE"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/action_settings"/>
+</LinearLayout>
+
+
+

@@ -1,0 +1,13 @@
+
+<resources>
+
+    <string name="app_name">Bản tin Rss</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_feed_link_list">FeedLInkListActivity</string>
+    <string name="page_feed">Chọn trang để đọc feed</string>
+    <string name="about">About</string>
+    <string name="ok">OK</string>
+    <string name="tac_gia">Tác giả</string>
+
+</resources>
